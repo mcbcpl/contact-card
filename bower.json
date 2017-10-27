@@ -1,5 +1,6 @@
 {
   "name": "contact-card",
+  "version": "1.0.1",
   "description": "Cria um Cartão de Visita na WEB",
   "main": "contact-card.html",
   "dependencies": {
